@@ -120,4 +120,4 @@ Inputs are all integers and mostly should be positive. Therefore if an negative 
 The output for each function is also presented in the snapshots.
 
 
-## to see th codes download the Zip file
+## to see the codes download the Zip file
