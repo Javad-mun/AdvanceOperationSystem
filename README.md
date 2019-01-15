@@ -1,21 +1,19 @@
 
 
+## This is the answer to the main assignment of Advanced Operating Sytem course
+
+# Advanced Operating Systems
 
 
-Advanced Operating Systems
-Assignment #1
 
 
 
+### Seyed Javad Khataei Pour
 
-Seyed Javad Khataei Pour
 
-
-October2018
- 
 
  
-Defining the problem.
+## Defining the problem.
 This assignment has three subproblems. 
 Subproblem one-Random generator problem.
 subproblem one is designing a routine that can produce random integer numbers within the range of 1 to a limit. The user should be able to give the function the range an also the seed. Moreover, there should be an option which the function uses system clock as the seed. In this manner the randomness of the system will increase. At the end this function will produce a sequence of random integer numbers and displays it on the console.
@@ -23,7 +21,7 @@ Second subproblem is designing three similar functions which print letters A, B 
 The third subproblem combines previous subproblems and each time a random number is generated from subproblem one, one of the functions of subproblem 2 will invoke and print either letter A, B or C.
 
  
-solution
+## solution
 Top-to-bottom design
 For the first step, the problem will be broken down to smaller pieces up to the point that each subproblem is easy to understand and convenient to solve.
 Subproblem one-Random generator problem.
@@ -33,7 +31,7 @@ Second option: user gives the seed and also the range so infinite numbers of ran
 Third option: The user will provide the seed, range and also the quantity of random numbers that need to be produced. The output in this case will be a finite sequence of random integers within the given range based on the provided seed. 
 Main software structure: in this section an interface is designed to provide the user an user-friendly, easy to work with environment. user can easily navigate through different part of the software and execute different sub-functions regarding three aforementioned subproblems.  Moreover, user can use the option menu to manipulate each function. More details about the entire structure is provided in the next chapter.
 
-Top-to-bottom
+### Top-to-bottom
 In order to make the problem easier to solve top-to-bottom method is used and the main problem in divided to several subproblems.
 Subproblem #1: 
  First subproblem is a random generator. Although it might seem to be easy to implement, this subproblem also needs to be divided into smaller parts. This subproblem itself has four subproblems. This subproblems can be called subproblem1.1 , subproblem1,2 , etc.
@@ -122,8 +120,4 @@ Inputs are all integers and mostly should be positive. Therefore if an negative 
 The output for each function is also presented in the snapshots.
 
 
-
-
-
-
-Appendix A codes:
+## to see th codes download the Zip file
