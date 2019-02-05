@@ -8,7 +8,7 @@
 
 
 
-### Seyed Javad Khataei Pour
+### Written in C
 
 
 
