@@ -71,7 +71,8 @@ here computational function are the ones which calculate or print out a value. F
 The naming is based on the subproblem number. For example sub13 points to the function that solve subproblem 1 part three.  In general the naming of this function follows the logic behind the presented design tree.
 #### 
 
-![alt text] (https://github.com/Javad-mun/AdvanceOperationSystem/blob/master/main1.JPG?raw=true)
+![Alt text](https://github.com/Javad-mun/AdvanceOperationSystem/blob/master/main1.JPG?raw=true "A snap shot of the main view")
+
 ### Code explanation:
 the code is complemented with fair amount of comments to make it easy to understand. Since there are a few type of function, understanding each from one type will be helpful in analyzing the other function from the same type.  In this section as an example one the functions will be explained throughly.
 
